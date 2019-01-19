@@ -19,4 +19,4 @@ jwt:
     key: HeavenY    #加盐
     ttl: 3600000    #过期时间1个小时
 server:
-  port: 8081
+  port: 8082
