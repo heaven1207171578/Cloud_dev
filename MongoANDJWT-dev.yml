@@ -3,6 +3,9 @@ spring:
     mongodb:
       uri: mongodb://127.0.0.1:27017
       database: database
+  rabbitmq:
+     host: 127.0.0.1
+     port: 5672
   redis:
     host: 127.0.0.1
     port: 6379
